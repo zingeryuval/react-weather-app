@@ -1,0 +1,9 @@
+body {
+    background-image: url('icons/background.jpg');
+    background-size: 100%;
+}
+
+.Weather {
+    display: flex;
+    justify-content: center;
+}
